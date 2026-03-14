@@ -1,0 +1,75 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Discover original artwork and handcrafted ceramics by Israeli artist Sivan Amir. Explore paintings, pottery, and immersive art workshops in a refined creative space.
+
+### About
+https://example.com/about
+Learn about Sivan Amir&#39;s artistic journey from inspiration to creation. Discover the story behind the original paintings and ceramics that celebrate warmth and natural beauty.
+
+### Contact
+https://example.com/contact
+Ready to start your creative journey? Contact Sivan Amir to purchase original artwork, commission custom pieces, or reserve your spot in upcoming art workshops today.
+
+### Products
+https://example.com/products
+Our Products - Sivan Amir
+
+### Cart
+https://example.com/cart
+Your Cart
+
+### Checkout
+https://example.com/checkout
+Checkout
+
+### Login
+https://example.com/login
+Customer Login
+
+### Account
+https://example.com/account
+My Account
+
+### Order Success
+https://example.com/order-success
+Thank you for your order
+
+### Product Detail
+https://example.com/product/:slug
+Product Details - Sivan Amir
+
+### Category
+https://example.com/category/:slug
+Products - Sivan Amir
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
